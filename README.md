@@ -1,6 +1,11 @@
 <h1 align="center">
-    <a href="https://github.com/MuhammadRidwan54"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=500&color=14FFFF&center=true&vCenter=true&random=false&width=452&height=62&lines=Hi+Kids;This is your dad;I m+Sibe.Wee" alt="Typing SVG" /></a>
+  <a href="https://github.com/MuhammadRidwan54">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=500&color=14FFFF&center=true&vCenter=true&random=false&width=452&height=62&lines=Hi+Kids;This+is+your+dad;I'm+Sibe.Wee" 
+      alt="Typing SVG" />
+  </a>
 </h1>
+
 
 <h3 align="center">Website developer from Indonesia</h3>
 
